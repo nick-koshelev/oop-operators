@@ -1,0 +1,7 @@
+C:\Users\nikos\source\repos\oop\ISMFractions\bin\Debug\ISMFractions.exe.config
+C:\Users\nikos\source\repos\oop\ISMFractions\bin\Debug\ISMFractions.exe
+C:\Users\nikos\source\repos\oop\ISMFractions\bin\Debug\ISMFractions.pdb
+C:\Users\nikos\source\repos\oop\ISMFractions\obj\Debug\ISMFractions.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\oop\ISMFractions\obj\Debug\ISMFractions.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\oop\ISMFractions\obj\Debug\ISMFractions.exe
+C:\Users\nikos\source\repos\oop\ISMFractions\obj\Debug\ISMFractions.pdb

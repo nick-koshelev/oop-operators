@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMFractions", "ISMFractions\ISMFractions.csproj", "{DDE6E685-4240-4260-A78D-57E02FC52808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions_Library", "Fractions_Library\Fractions_Library.csproj", "{4113DA75-BD41-42FA-B946-5443760D698D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE6E685-4240-4260-A78D-57E02FC52808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE6E685-4240-4260-A78D-57E02FC52808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE6E685-4240-4260-A78D-57E02FC52808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE6E685-4240-4260-A78D-57E02FC52808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4113DA75-BD41-42FA-B946-5443760D698D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4113DA75-BD41-42FA-B946-5443760D698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4113DA75-BD41-42FA-B946-5443760D698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4113DA75-BD41-42FA-B946-5443760D698D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9443141-9C97-4C9C-A18B-620B2051AD84}
+	EndGlobalSection
+EndGlobal
